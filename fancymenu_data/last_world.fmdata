@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/Sixtine/curseforge/minecraft/Instances/Mod-le-Modpack-1.21.1-Minecraft/saves/Teste 1
+}
+

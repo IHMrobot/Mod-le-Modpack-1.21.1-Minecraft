@@ -427,3 +427,19 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Minecraft specifique files
+
+defaultconfigs/
+
+saves/
+
+logs/
+
+local/crash_assistant/
+
+options.txt
+
+ESM/
+
+crash-reports/
