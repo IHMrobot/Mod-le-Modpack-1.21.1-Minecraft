@@ -138,32 +138,40 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:magma_cube": true
+			"minecraft:glow_squid": true
 			"minecraft:piglin": true
-			"minecraft:zombie": true
-			"minecraft:enderman": true
-			"minecraft:drowned": true
-			"minecraft:zombified_piglin": true
-			"minecraft:spider": true
-			"minecraft:squid": true
-			"minecraft:pig": true
-			"minecraft:ghast": true
-			"minecraft:cow": true
-			"minecraft:witch": true
-			"minecraft:bee": true
-			"minecraft:skeleton": true
+			"minecraft:rabbit": true
+			"minecraft:dolphin": true
+			"minecraft:fox": true
 			"minecraft:bat": true
+			"minecraft:villager": true
+			"minecraft:enderman": true
+			"minecraft:zombified_piglin": true
 			"minecraft:salmon": false
+			"minecraft:donkey": true
+			"minecraft:zombie_villager": true
+			"minecraft:skeleton": true
+			"minecraft:cow": true
+			"minecraft:wither_skeleton": true
+			"minecraft:chicken": true
+			"minecraft:squid": true
+			"minecraft:cod": false
+			"minecraft:bee": true
+			"minecraft:horse": true
 			"minecraft:strider": true
 			"minecraft:hoglin": true
-			"minecraft:zombie_villager": true
-			"minecraft:cod": false
-			"minecraft:horse": true
+			"minecraft:wolf": true
 			"minecraft:creeper": true
-			"minecraft:chicken": true
+			"minecraft:slime": true
+			"minecraft:pig": true
+			"minecraft:spider": true
+			"minecraft:turtle": true
 			"minecraft:sheep": true
-			"minecraft:wither_skeleton": true
-			"minecraft:glow_squid": true
+			"minecraft:zombie": true
+			"minecraft:drowned": true
+			"minecraft:ghast": true
+			"minecraft:witch": true
+			"minecraft:magma_cube": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

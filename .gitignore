@@ -443,3 +443,7 @@ options.txt
 ESM/
 
 crash-reports/
+
+command_history.txt
+
+TrashSlotSaveState.json
