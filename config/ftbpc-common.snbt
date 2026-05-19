@@ -39,6 +39,6 @@
 		
 		# When enabled, the shaders notice will be shown on world start if shaders are included in the pack.
 		# Default: false
-		show_on_start: false
+		show_on_start: true
 	}
 }

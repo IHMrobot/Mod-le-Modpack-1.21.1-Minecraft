@@ -17,7 +17,7 @@
 		allow_respawn: false
 		
 		# Default: false
-		punish_for_breaking_spawners: false
+		punish_for_breaking_spawners: true
 		
 		# A list of entity types that will be used to replace broken spawners. Set to an empty list to disable.
 		# Default: []
