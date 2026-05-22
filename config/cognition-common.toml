@@ -44,7 +44,7 @@
 ["Bookshelf Settings"]
 	#The chance that infected bookshelves of any kind drop Forgotten Dust upon decaying.
 	#Set this value to 0.0 to prevent drops from decaying bookshelves completely
-	# Default: 0.5
+	# Default: 0.33
 	# Range: 0.0 ~ 1.0
 	DropDustChance = 0.5
 	#Whether Infected Bookshelves are permeable to Forgotten Dust item entities.

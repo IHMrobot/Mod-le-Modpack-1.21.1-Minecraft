@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -52,8 +52,11 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "apothic_spawners": {
+    "spawner": true
+  },
+  "entangled": {
+    "entangled_block_component": true
   },
   "jade_access": {
     "held_item": true,
@@ -64,6 +67,9 @@
   },
   "ftbquests": {
     "barrier": true
+  },
+  "immersiveengineering": {
+    "multiblock_icon": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -76,15 +82,21 @@
     "block_properties": false,
     "mod_name": true
   },
+  "apotheosis": {
+    "adventure": true
+  },
   "extendedae": {
     "jade_chamber": true,
     "jade_wireless": true
   },
-  "corpse": {
-    "corpse": true
+  "apothic_enchanting": {
+    "ench": true
   },
   "balm": {
     "jade": true
+  },
+  "custommachinery": {
+    "machine_component_provider": true
   },
   "ae2": {
     "part_icon": true,
@@ -97,5 +109,33 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "preservation_chamber": true,
+    "milk_jar": true,
+    "toaster": true
   }
 }
